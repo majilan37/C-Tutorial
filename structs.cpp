@@ -13,7 +13,7 @@ int main()
     // struct is a structure that groups related variables under one name,
     // structs can contain many different data types (strings, variables, bool, etc).
     // variables in struct are known as "members".
-    // members can be access with. "Class member access operator".
+    // members can be access with "." "Class member access operator".
 
     Student student1;
 
